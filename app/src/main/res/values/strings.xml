@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CseA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_college">CollegeActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_clg">ClgActivity</string>
+    <string name="ques">Any documents?attach here:</string>
+    <string name="title_activity_new_update">NewUpdateActivity</string>
+    <string name="getText">Description</string>
+    <string name="getDet">Sender details</string>
+    <string name="empty">No updates available</string>
+    <string name="stauts"><b>No internet connection</b></string>
+    <string name="login_title"><u>Login</u></string>
+    <string name="title_activity_updates">UpdatesActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>

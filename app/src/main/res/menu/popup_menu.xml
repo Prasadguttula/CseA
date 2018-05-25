@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/college"
+        android:title="College"/>
+    <item
+        android:id="@+id/Class"
+        android:title="Class"/>
+    <item
+        android:id="@+id/assign"
+        android:title="Assignment"/>
+    <item
+        android:id="@+id/mid-sem"
+        android:title="Mid/Sem"/>
+    <item
+        android:id="@+id/externals"
+        android:title="Externals"/>
+</menu>
